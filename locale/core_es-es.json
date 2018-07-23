@@ -12,7 +12,7 @@
 	"core_tray_recent_wallpapers_clear" : "Limpiar lista",
 	"core_tray_next_wallpaper" : "Siguiente fondo",
 	
-	"core_balloon_info" : "Minimizar Wallpaper Engine al área de notificación. Doble click en el ícono para seleccionar fondo.",
+	"core_balloon_info" : "Minimizar Wallpaper Engine al área de notificación. Doble click en el icono para seleccionar fondo.",
 	"core_balloon_desktop_window_error" : "Error estableciendo fondo animado.",
 	"core_balloon_video_error" : "Error de video {{err}}. Click para más información.",
 	"core_balloon_app_error" : "Error cargando aplicación como fondo.",
